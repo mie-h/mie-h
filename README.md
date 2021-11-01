@@ -1,22 +1,23 @@
-## Hi, I'm Mie Haga 😄
-[![LinkedIn](https://img.shields.io/badge/xingvoong%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/xingvoong/)](https://www.linkedin.com/in/xingvoong/)
-[![Twitter](https://img.shields.io/badge/xingvoong%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/xingvoong/)](https://twitter.com/xingvoong/)
-[![GitHub](https://img.shields.io/badge/xingvoong%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/xingvoong)](https://github.com/xingvoong)
-[![Gmail](https://img.shields.io/badge/xingvoong%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:xingvoong@gmail.com)](mailto:xingvoong@gmail.com)
+## Hi, I'm Mie Haga🎉
+[![LinkedIn](https://img.shields.io/badge/miehaga%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/miehaga906/)](https://www.linkedin.com/in/miehaga906/)
+[![GitHub](https://img.shields.io/badge/mie-h%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/mie-h)](https://github.com/xingvoong)
+[![Gmail](https://img.shields.io/badge/miehaga%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:miehaga@berkeley.edu)](mailto:miehaga@berkeley.edu)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently looking for an software engineering team to join!
+- 📫 How to reach me: miehaga@berkeley.edu
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: Love solo travel✈ / Zazen🗻(Zen meditation)
+
+<!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about ... -->
 
+
+<!-- 
 [![ABC's GitHub stats](https://github-readme-stats.vercel.app/api?username=mie-h)](https://github.com/mie-h/github-readme-stats)
 
-
+ -->
 
 
 
