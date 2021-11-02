@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for a software engineering team to join!
 - 📫 How to reach me: miehaga@berkeley.edu
-- 😄 Pronouns: she/Her/Hers
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: Love solo travel✈ / Zazen🗻(Zen meditation)
 
 
