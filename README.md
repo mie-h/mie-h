@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/miehaga%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:miehaga@berkeley.edu)](mailto:miehaga@berkeley.edu)
 
 
-- 🔭 I’m currently looking for an software engineering team to join!
+- 🔭 I’m currently looking for a software engineering team to join!
 - 📫 How to reach me: miehaga@berkeley.edu
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: she/Her/Hers
 - ⚡ Fun fact: Love solo travel✈ / Zazen🗻(Zen meditation)
 
 
