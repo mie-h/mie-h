@@ -10,6 +10,8 @@
 - ⚡ Fun fact: Love solo travel✈ / Zazen🗻(Zen meditation)
 
 
+Please check out my website✨ [Mie Haga Website](https://mie-h.github.io/)
+
 ### Languages
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="35px" height="35px"></a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="35px" height="35px"></a>
