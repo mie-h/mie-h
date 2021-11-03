@@ -11,6 +11,7 @@
 
 
 Please check out my website✨ [Mie Haga Website](https://mie-h.github.io/)
+and [My blog](https://medium.com/@miehaga)
 
 ### Languages
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="35px" height="35px"></a> 
