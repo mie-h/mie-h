@@ -5,7 +5,7 @@
 
 I’m currently looking for a software engineering team to join!
 
- [Mie Haga Website](https://mie-h.github.io/)
+ [Mie Haga Website](www.https://miehaga.com)
 
 
 
