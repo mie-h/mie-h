@@ -3,9 +3,6 @@
 [![Gmail](https://img.shields.io/badge/miehaga%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:miehaga@berkeley.edu)](mailto:miehaga2@gmail.com)
 
 
- [Mie Haga Website](https://www.miehaga.com/)
-
-
 
 
 
